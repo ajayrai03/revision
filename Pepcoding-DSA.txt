@@ -1,0 +1,13 @@
+01. Getting Started
+02. Patterns
+03. Arrays
+04. Searching and Sorting
+05. Recursion
+06. Stack and Queue
+07. Linked List
+08. Generic Tree
+09. Binary Tree
+10. Binary Search Tree
+11. Hashmap and Heaps
+12. Graphs
+Dynamic Programming
